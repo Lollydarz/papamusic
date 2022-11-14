@@ -12,6 +12,7 @@ from AnonX.core.call import Anon
 from AnonX.plugins import ALL_MODULES
 from AnonX.utils.database import get_banned_users, get_gbanned
 
+
 loop = asyncio.get_event_loop()
 
 
